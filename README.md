@@ -21,5 +21,4 @@ Este jogo foi criado para facilitar a brincadeira do Amigo Secreto de forma simp
 
 - [@André](https://github.com/DevAndreOficial)
 
-=========================
 Desafio da [Alura](https://www.alura.com.br/?srsltid=AfmBOoquoM-XCxXsk3KFpv-uo7hcEZWmZYmrH72dd6X2L2mzhEwZDROR) + [Oracle](https://www.oracle.com/)
